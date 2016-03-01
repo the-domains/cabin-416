@@ -16,20 +16,20 @@ keywords:
   - feelings
   - romantics
 description: A vegan soap with no added scents to refresh and replenish.
-datePublished: '2016-03-01T22:49:08.841Z'
-dateModified: '2016-03-01T22:40:37.953Z'
+datePublished: '2016-03-01T22:49:31.625Z'
+dateModified: '2016-03-01T22:49:18.058Z'
 author: []
 related: []
 app_links: []
 title: Soap - Simple + Soft
+sourcePath: _posts/2016-03-01-soap-simple-soft.md
+published: true
 authors: []
 publisher:
   name: Cabin 416
   domain: cabin416.com
   url: 'http://cabin416.com'
   favicon: 'http://cabin416.briancauley.ca/files/2015/07/cabin-416-retina.png'
-sourcePath: _posts/2016-03-01-soap-simple-soft.md
-published: true
 url: soap-simple-soft/index.html
 _context: 'http://schema.org'
 _type: MediaObject
