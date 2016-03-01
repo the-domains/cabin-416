@@ -1,7 +1,7 @@
 name: Cabin 416
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.5481935921125114
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.18163816048763692
-  lightness: 0.9931673086248338
-  saturation: 0.13754555489867926
-  rhythmicContrast: 0.5951285709161311
+    - '#d4d4cc'
+    - '#f2f2ea'
+    - '#361a19'
+    - '#695345'
+    - '#aeaaa1'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
