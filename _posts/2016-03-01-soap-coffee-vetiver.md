@@ -16,20 +16,20 @@ keywords:
   - feelings
   - romantics
 description: 'A soap using repurposed coffee grinds, coffee, and infused oils to exfoliate, tone, and protect.'
-datePublished: '2016-03-01T22:34:11.954Z'
-dateModified: '2016-03-01T22:33:20.287Z'
+datePublished: '2016-03-01T22:49:20.318Z'
+dateModified: '2016-03-01T22:40:13.636Z'
 author: []
 related: []
 app_links: []
 title: Soap - Coffee + Vetiver
+sourcePath: _posts/2016-03-01-soap-coffee-vetiver.md
+published: true
 authors: []
 publisher:
   name: Cabin 416
   domain: cabin416.com
   url: 'http://cabin416.com'
   favicon: 'http://cabin416.briancauley.ca/files/2015/07/cabin-416-retina.png'
-sourcePath: _posts/2016-03-01-soap-coffee-vetiver.md
-published: true
 url: soap-coffee-vetiver/index.html
 _context: 'http://schema.org'
 _type: MediaObject
