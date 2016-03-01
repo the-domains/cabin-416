@@ -16,8 +16,8 @@ keywords:
   - feelings
   - romantics
 description: A vegan soap with no added scents to refresh and replenish.
-datePublished: '2016-03-01T22:49:31.625Z'
-dateModified: '2016-03-01T22:49:18.058Z'
+datePublished: '2016-03-01T23:00:03.476Z'
+dateModified: '2016-03-01T22:49:42.170Z'
 author: []
 related: []
 app_links: []
