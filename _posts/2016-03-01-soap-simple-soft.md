@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://cabin416.com/portfolio/soap-simple-soft/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - eternal
   - feelings
   - romantics
-description: We started Porch Light to re-create that feeling you get when coming home - those warm fuzzy feelings after being away for a long time... We are two hopeless romantics who found each other in a time where our faith in love was tested and our search for true romance seemed eternal...
-datePublished: '2016-03-01T22:40:27.534Z'
-dateModified: '2016-03-01T22:38:37.226Z'
+description: A vegan soap with no added scents to refresh and replenish.
+datePublished: '2016-03-01T22:49:08.841Z'
+dateModified: '2016-03-01T22:40:37.953Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   favicon: 'http://cabin416.briancauley.ca/files/2015/07/cabin-416-retina.png'
 sourcePath: _posts/2016-03-01-soap-simple-soft.md
 published: true
+url: soap-simple-soft/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
