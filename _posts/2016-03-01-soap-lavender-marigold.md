@@ -16,8 +16,8 @@ keywords:
   - feelings
   - romantics
 description: A vegan soap with lavender and marigold to calm and revive.
-datePublished: '2016-03-01T22:40:41.498Z'
-dateModified: '2016-03-01T22:40:07.439Z'
+datePublished: '2016-03-01T22:49:15.764Z'
+dateModified: '2016-03-01T22:49:15.430Z'
 author: []
 related: []
 app_links: []
