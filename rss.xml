@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cabin 416]]></title>
+        <description><![CDATA[Cabin 416]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Mar 2016 22:34:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Soap - Coffee + Vetiver]]></title>
+            <description><![CDATA[<article><h1>Soap - Coffee + Vetiver</h1><p>A soap using repurposed coffee grinds, coffee, and infused oils to exfoliate, tone, and protect.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2201e45ee78f0354bdbbfe8619ebf231e11e1d38.jpg"></article>]]></description>
+            <link>undefinedsoap-coffee-vetiver/index.html</link>
+            <guid isPermaLink="false">4de1fcf7-135f-4525-8a6d-cc708abb49a2</guid>
+            <pubDate>Tue, 01 Mar 2016 22:34:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
