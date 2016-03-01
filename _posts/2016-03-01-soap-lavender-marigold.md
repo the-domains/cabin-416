@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://cabin416.com/portfolio/soap-lavender-marigold/'
 inLanguage: en
 starred: false
 keywords:
@@ -16,9 +15,9 @@ keywords:
   - eternal
   - feelings
   - romantics
-description: We started Porch Light to re-create that feeling you get when coming home - those warm fuzzy feelings after being away for a long time... We are two hopeless romantics who found each other in a time where our faith in love was tested and our search for true romance seemed eternal...
-datePublished: '2016-03-01T22:39:56.381Z'
-dateModified: '2016-03-01T22:39:35.052Z'
+description: A vegan soap with lavender and marigold to calm and revive.
+datePublished: '2016-03-01T22:40:41.498Z'
+dateModified: '2016-03-01T22:40:07.439Z'
 author: []
 related: []
 app_links: []
@@ -31,11 +30,12 @@ publisher:
   favicon: 'http://cabin416.briancauley.ca/files/2015/07/cabin-416-retina.png'
 sourcePath: _posts/2016-03-01-soap-lavender-marigold.md
 published: true
+url: soap-lavender-marigold/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Soap - Lavender &amp;plus; Marigold</h1><p>We started Porch Light to re-create that feeling you get when coming home - those warm fuzzy feelings after being away for a long time&amp;period;&amp;period;&amp;period; We are two hopeless romantics who found each other in a time where our faith in love was tested and our search for true romance seemed eternal&amp;period;&amp;period;&amp;period;</p><img src="http://cabin416.com/files/2014/11/PL-Lavender-Calendula-001.jpg" /></article>
+<article style=""><h1>Soap - Lavender + Marigold</h1><p>A vegan soap with lavender and marigold to calm and revive.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a155047aa330515cf95b0f516604752989a19eef.jpg" /></article>
 
 Our Lavender + Marigold soap is the perfect scent to soothe and calm your senses. The subtle smell of lavender and soft marigold petals in this bar creates a soft exfoliation and rich lather leaving your skin velvety and refreshed.
 
